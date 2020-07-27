@@ -1,0 +1,27 @@
+*{
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	font-family: montserrat;
+	box-sizing: border-box;
+}
+body{
+	background-image: linear-gradient(120deg,#3498db,#8e44ad);
+	background-size: cover;
+	min-height: 100vh
+}
+.param{
+  border-radius: 10px;
+  width: 600px;
+  height: 100px;
+  background: #f1f1f1;
+  padding: 80px 30px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%,-50%);
+}
+p{
+  font-size = 25pxs;
+  text-align = center;
+}
